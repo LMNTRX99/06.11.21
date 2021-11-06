@@ -1,0 +1,42 @@
+header
+{
+   display: flex;
+   justify-content: space-between;
+    
+}
+.phone-mail
+{
+    display: flex;
+    
+}
+.mail
+{
+    margin-left: 10px;
+}
+
+.navigation
+{
+    display: flex;
+   justify-content: space-between;
+}
+span
+{
+   margin-right: 20px;
+    
+}
+i
+{
+    margin-right: 20px;
+}
+.List
+{
+    margin-top: 30px;
+    
+}
+body
+{
+        background-size:  1500px 150px;
+        background-image: url(night-2978816_1280.jpg);
+        background-repeat: no-repeat;
+        color: white;
+}
